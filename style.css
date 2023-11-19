@@ -17,3 +17,12 @@
 .table{
     
 }
+.main-link:hover,
+.main-link:focus{
+    color:hotpink;
+    background-color: aliceblue;
+}
+.paragraph{
+    color: rgb(194, 146, 205);
+    background-color: azure;
+}
